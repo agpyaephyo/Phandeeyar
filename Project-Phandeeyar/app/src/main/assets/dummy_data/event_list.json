@@ -1,0 +1,44 @@
+ [
+  {
+    "event_title": "Hardware Product Design Workshop",
+    "stock_photo": "http://www.aungpyaephyo.xyz/phandeeyar_events/dummy_event_pic_1_small.png",
+    "event_desc": "Are you interested in learning about how to design a physical product, starting from the idea, to the prototype, all the way to finalizing it? Ko Tun Min Soe, who works as product designer and creative director in the US, and also helped run our Hardware Hack Week in 2015, will be teaching a Workshop on 'Designing Hardware Products' on Friday, Feb 26th, 1-5 PM.",
+    "start_time": "2016-02-26:13:00:00",
+    "end_time": "2016-02-26:17:00:00"
+  },
+   {
+     "event_title": "The potential of the Internet of Things in Myanmar",
+     "stock_photo": "http://www.aungpyaephyo.xyz/phandeeyar_events/dummy_event_pic_2_small.png",
+     "event_desc": "Want to learn more about the Internet of Things? It is an emerging new field of technology which will allow devices, vehicles, buildings and other \"things\" to be all networked together. We are hosting a panel of local and international experts on the topic to discuss about \"The Potential of the Internet of Things in Myanmar\" on Thursday, 25th February, from 6 to 8pm. This seminar is open to everyone and you don\'t need to have any technical background to come.",
+     "start_time": "2016-02-25:18:00:00",
+     "end_time": "2016-02-25:20:00:00"
+   },
+   {
+     "event_title": "7 1/2 lessons learned from Starting Up, Selling Out & Making It Up As I Go Along",
+     "stock_photo": "http://www.aungpyaephyo.xyz/phandeeyar_events/dummy_event_pic_3_small.png",
+     "event_desc": "Are you interested in learning lessons from adventures in the world of business, marketing and technology? David Kethcum (Chair, Digital + Direct Marketing Association Asia) has more than 20 years of experience starting, running and selling companies in Asia. Hear him share his advice (and lots of funny stories!) on Tuesday 23th February at 6pm at Phandeeyar.",
+     "start_time": "2016-02-23:18:00:00",
+     "end_time": "2016-02-23:20:00:00"
+   },
+   {
+     "event_title": "Open source hardware platforms",
+     "stock_photo": "http://www.aungpyaephyo.xyz/phandeeyar_events/dummy_event_pic_4_small.png",
+     "event_desc": "Do you want to learn about Open Source Hardware Platforms? Phandeeyar is hosting a seminar on “Open Source Hardware Platforms” on 24th February, from 6 to 8pm. Our speaker is Ko Thiha Kyaw, who is a Research Engineer who teaches at Nanyang Polytechnics in Singapore, and has extensive experience with researching and designing hardware platforms. This seminar is open to everyone and you don't need to have any technical background to come.",
+     "start_time": "2016-02-24:18:00:00",
+     "end_time": "2016-02-24:20:00:00"
+   },
+   {
+     "event_title": "Tech, Data & the Elections: What did we learned ?",
+     "stock_photo": "http://www.aungpyaephyo.xyz/phandeeyar_events/dummy_event_pic_5_small.png",
+     "event_desc": "What impact did data and digital content have during the elections? The people behind key digital projects used during the elections will present new data about their databases, apps, and social media campaigns. Join us for with speakers from IFES, MVoter 2015, The Asia Foundation, MIDO, and Cha Party. If you are a developer, civic leader, or donor interested in building better digital products for Myanmar users this event is for you.",
+     "start_time": "2016-03-01:18:00:00",
+     "end_time": "2016-03-01:20:00:00"
+   },
+   {
+     "event_title": "3D Printing & Prototyping",
+     "stock_photo": "http://www.aungpyaephyo.xyz/phandeeyar_events/dummy_event_pic_6_small.png",
+     "event_desc": "Want to check out how 3D printing works, and learn how this technology is being used to revolutionize product design and prototyping? Ko Tun Min Soe has been working as a product designer and creative director in the US, UK, and Hong Kong for over a decade. Come hear him talk about “3D Printing and Prototyping” on Friday, 26th February, from 6 to 8pm. This seminar is for open for everyone and you don't need to have any technical background to come.",
+     "start_time": "2016-02-26:18:00:00",
+     "end_time": "2016-02-26:20:00:00"
+   }
+]
