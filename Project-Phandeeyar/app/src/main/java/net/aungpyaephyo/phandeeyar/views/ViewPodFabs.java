@@ -41,7 +41,7 @@ public class ViewPodFabs extends FrameLayout implements ViewController {
     }
 
     private void openAnim() {
-        ObjectAnimator objAnimRotation = ObjectAnimator.ofFloat(fabPlus, "rotation", 540f, 0f);
+        ObjectAnimator objAnimRotation = ObjectAnimator.ofFloat(fabPlus, "rotation", 540f, 45f);
         objAnimRotation.setDuration(600);
         objAnimRotation.setInterpolator(new AccelerateInterpolator());
         objAnimRotation.start();
@@ -97,7 +97,7 @@ public class ViewPodFabs extends FrameLayout implements ViewController {
     }
 
     private void closeAnim() {
-        ObjectAnimator objAnimRotation = ObjectAnimator.ofFloat(fabPlus, "rotation", 0, 540f);
+        ObjectAnimator objAnimRotation = ObjectAnimator.ofFloat(fabPlus, "rotation", 45f, 540f);
         objAnimRotation.setDuration(600);
         objAnimRotation.setInterpolator(new AccelerateInterpolator());
         objAnimRotation.start();
